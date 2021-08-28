@@ -32,7 +32,13 @@
     padding: 0px;
 }
 
+html {
+    max-width: 100% !important;
+    overflow-x: hidden !important;
+}
+
 body {
+    max-width: 100% !important;
     background: url("../img/pattern.png");
 }
 
